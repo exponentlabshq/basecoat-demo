@@ -1,5 +1,9 @@
 # 🎨 Basecoat + Tailwind CSS Integration Guide
 
+> **All of the shadcn/ui magic, none of the React** - A components library built with Tailwind CSS that works with any web stack.
+
+**🌐 [Official Basecoat Website](https://basecoatui.com/)**
+
 ![Basecoat Demo Screenshot](screenshot.png)
 
 ## 🚀 Quick Start
@@ -9,6 +13,32 @@
 📁 **Local:** Open `basecoat-demo.html` in your browser
 
 Explore the complete component showcase with interactive examples, HTMX integration, and comprehensive design system patterns.
+
+## 📖 Introduction
+
+**Basecoat** is a set of components built with Tailwind CSS designed to be used with any traditional web stack. It brings the magic of [shadcn/ui](https://ui.shadcn.com/) to any traditional web stack - **no React required**.
+
+### Why Basecoat?
+
+Tailwind won. But building UIs with utility classes alone kinda sucks. Most Tailwind libraries like Flowbite, Preline, or even Tailwind UI ask you to copy walls of unreadable classes into your HTML. It works, but it's messy and hard to maintain.
+
+shadcn/ui avoids that by wrapping everything in React components. It also gives you a killer design system, theme support, a CLI, and a growing ecosystem.
+
+But maybe you're not using React. Maybe your app is built with plain HTML. Or Flask. Or Rails. Or Laravel. Or Django. Or whatever.
+
+**That's where Basecoat comes in.** It gives you modern, accessible components with the simplicity of plain HTML and Tailwind.
+
+### Key Features
+
+- **🚀 Lightweight**: No runtime JS, just CSS and a tiny bit of vanilla JavaScript for interactive components
+- **🎯 Easy to use**: Add classes like `btn` or `input` and you're done
+- **🔧 Framework-agnostic**: Works with any backend or frontend stack
+- **♿ Accessible**: Components follow accessibility best practices
+- **🌙 Dark mode ready**: Respects your Tailwind config
+- **🎨 Extendable**: Tweak styles with Tailwind or CSS variables
+- **🎭 Themable**: Fully compatible with shadcn/ui themes
+- **📖 Readable**: No class soup, just clean markup
+- **🆓 Free and open source**: MIT licensed
 
 > **A comprehensive guide to leveraging Basecoat design system with Tailwind CSS, avoiding common pitfalls and maximizing design consistency.**
 
