@@ -4,7 +4,11 @@
 
 ## 🚀 Quick Start
 
-**Want to see Basecoat in action?** Simply open `basecoat-demo.html` in your browser to explore the complete component showcase with interactive examples.
+**Want to see Basecoat in action?** 
+
+🌐 **[View Live Demo](https://exponentlabshq.github.io/basecoat-demo/)** | 📁 **Local:** Open `basecoat-demo.html` in your browser
+
+Explore the complete component showcase with interactive examples, HTMX integration, and comprehensive design system patterns.
 
 > **A comprehensive guide to leveraging Basecoat design system with Tailwind CSS, avoiding common pitfalls and maximizing design consistency.**
 
