@@ -6,7 +6,7 @@
 
 **Want to see Basecoat in action?** 
 
-🌐 **[View Live Demo](https://exponentlabshq.github.io/basecoat-demo/)** | 📁 **Local:** Open `basecoat-demo.html` in your browser
+📁 **Local:** Open `basecoat-demo.html` in your browser
 
 Explore the complete component showcase with interactive examples, HTMX integration, and comprehensive design system patterns.
 
